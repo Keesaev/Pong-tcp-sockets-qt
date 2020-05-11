@@ -4,6 +4,8 @@
 
 ## What is this?
 * Classic pong that you can play with your friend
+* Client and host in one app - choose option in game menu
+* A clear example of why you should choose between TCP and UPD wisely (about 1 sec of ping) 
 
 ## Screenshots
 
